@@ -17,7 +17,7 @@ const About = () => {
             <p className="about__description">
               Information about me lalalalalallalalala
             </p>
-            <a href={CV} className="button button--flex">View My CV 
+            <a href="" className="button button--flex">View My CV 
             <svg
                 class="button__icon"
                 xmlns="http://www.w3.org/2000/svg"
